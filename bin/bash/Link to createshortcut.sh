@@ -1,0 +1,1 @@
+/home/rich/bin/createshortcut.sh

@@ -1,0 +1,1 @@
+/home/rich/bin/ls-filetype abbr.txt
